@@ -1,0 +1,16 @@
+Nani;1000;5
+What;2000;10
+Nani;1000;15
+Nani;1000;20
+Nani;1000;25
+Nani;2200;30
+Nani;500;35
+Nani;0;Vierzig
+Nani;1000;_:OI
+Nani;1000;Alter
+Nani;Nein;20
+Nani;Arzt;5
+LUL;20000;222
+
+
+
